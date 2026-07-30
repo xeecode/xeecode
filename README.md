@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shani
+# Hi 👋 I'm Zeeshan
 
 ### Flutter Developer | BS Software Engineering Student 🇵🇰
 
